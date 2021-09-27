@@ -1,2 +1,6 @@
 # CLion user-specific settings
 /.idea/workspace.xml
+
+# CLion build directories
+/cmake-build-debug/
+/cmake-build-release/
